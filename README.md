@@ -1,12 +1,6 @@
-# angular-shoping-cart
+# Skeletion for project using Angular
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
-version 0.15.1.
+version 0.15.1.Angular
 
-## Build & development
-
-Run `grunt` for building and `grunt serve` for preview.
-
-## Testing
-
-Running `grunt test` will run the unit tests with karma.
+### We have configured gulpfile.js file to avoid error after using Yeoman Angular Generator
